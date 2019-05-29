@@ -13,7 +13,7 @@ Designed a small game using HTML, CSS and JS that provides the user with rgb det
 <p>If the user chooses the easy mode, he is provided with 3 different blocks of colors to choose from.</p>
 <p>If the user chooses the wrong color that block of color disappears and the user is allowed to choose from rest of the blocks.</p>
 <p>If the user chooses the right color then all the blocks of color turn to the correct color informing the user that he has won.</p>
-
+<br>
 <h6>Additional Features</h6>
 <p>The game chooses a random rgb color on it's own.</p>
 <p>The game chooses the correct block of color along with the rest of the colors on it's own.</p>
